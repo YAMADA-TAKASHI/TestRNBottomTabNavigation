@@ -18,5 +18,8 @@ $ npm install react-navigation-stack --save
 
 # React Navigation Tabs
 $ npm install react-navigation-tabs --save
+
+# React Native Reanimated
+$ npm i react-native-reanimated@1.3.0 --save 
 ```
 
